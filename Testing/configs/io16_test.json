@@ -1,0 +1,11 @@
+{
+    "hostname": "192.168.15.111",
+    "username": "pi",
+    "password": "raspberry",
+    "db_path": "/home/testbench/product_database_test/products_test.db",
+    "local_test_path": "/home/testbench/product_database_test/",
+    "make": "IO",
+    "model": "16",
+    "variant": "N1"
+  }
+  

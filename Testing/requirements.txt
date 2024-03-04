@@ -1,0 +1,5 @@
+# requirements.txt
+
+# Use tags for the latest release
+productsdb @ git+https://github.com/nube-support/productsdb.git
+
